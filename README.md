@@ -3,7 +3,12 @@ Live Demo
 
 https://eloi-internship-c9sz-ekkj8r7hl-eloi-ngabos-projects.vercel.app/
 
+<img width="1122" height="929" alt="Screenshot 2026-09-19 at 8 33 50 AM" src="https://github.com/user-attachments/assets/94bdcc0a-b97d-48b6-953d-767cd497b1ac" />
+
+
 https://netflix-clone-kappa-three-71.vercel.app/
+
+<img width="1108" height="1022" alt="Screenshot 2026-09-19 at 8 36 29 AM" src="https://github.com/user-attachments/assets/0b7573f0-230a-4c9d-b4ad-2d4c75a44d85" />
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Eloi Ngabonziza
