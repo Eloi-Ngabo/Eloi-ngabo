@@ -1,10 +1,16 @@
 ## Hi there 👋
 Live Demo
 
+
+ULTRAVERSE NTF WORLD
+ Designed to demonstrate frontend development capabilities, feature modules, and interactive user interfaces with responsive design, dynamic client-side routing, API, and clean UI architecture for an optimal user experience across all devices.
+ 
 https://eloi-internship-c9sz-ekkj8r7hl-eloi-ngabos-projects.vercel.app/
 
 <img width="1122" height="929" alt="Screenshot 2026-09-19 at 8 33 50 AM" src="https://github.com/user-attachments/assets/94bdcc0a-b97d-48b6-953d-767cd497b1ac" />
 
+NETFLIX Clone
+Created with JavaScript + Firebase streaming clone using the TMDb API, with authentication and optimized rendering and architecture for an optimal user experience across all devices.
 
 https://netflix-clone-kappa-three-71.vercel.app/
 
